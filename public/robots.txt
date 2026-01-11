@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://innovexa-fawn.vercel.app//sitemap.xml
